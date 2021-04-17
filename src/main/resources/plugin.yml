@@ -1,0 +1,7 @@
+name: Survival
+version: ${project.version}
+main: cc.minetale.survival.Survival
+api-version: 1.16
+authors: [ oHate, BitCrackIGN ]
+description: Plugin improving QoL and gameplay on a survival-based server.
+softdepend: [ mLib, CommandAPI, Blaze ]
